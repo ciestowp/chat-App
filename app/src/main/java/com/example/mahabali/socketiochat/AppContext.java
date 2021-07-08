@@ -33,4 +33,8 @@ public class AppContext extends Application {
         super.onTerminate();
         destroySocketListener();
     }
+
+    public void ok(){
+
+    }
 }
