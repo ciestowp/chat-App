@@ -34,7 +34,5 @@ public class AppContext extends Application {
         destroySocketListener();
     }
 
-    public void ok(){
 
-    }
 }
